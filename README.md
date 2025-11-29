@@ -17,6 +17,8 @@ O **CreateUrlLambda** é um projeto de encurtador de URL (URL Shortener) desenvo
 
 O objetivo principal é oferecer uma solução escalável e de baixo custo para a criação e gestão de links curtos, aproveitando o poder e a performance da versão **Java 21** e a infraestrutura robusta da AWS.
 
+Diagrama da Solução: https://whimsical.com/url-shortener-kipper-workshop-X2doHfW6SxQZnzRFSbhaTR
+
 -----
 
 ## ✨ Funcionalidades
